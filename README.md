@@ -6,7 +6,7 @@ This is an attempt to explain the very complex being that I am, through the lang
 
 ![My Website](myport.png)
 
-**Link to the website** : https://bhargavnuligommu.com/
+**Link to the website** : https://bhargavnuligommu.github.io/myPortfolio/
 
 ## Getting Started 🎧
 
